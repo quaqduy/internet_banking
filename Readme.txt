@@ -18,6 +18,4 @@
 		username: admin
 		password: 123456
 
--Video đánh giá của nhóm truy cập link: https://drive.google.com/file/d/1osT84mthkU7GKeBxjep-Rlu5hR4QufAU/view?usp=sharing
-
 
