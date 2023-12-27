@@ -20,9 +20,4 @@
 
 -Video đánh giá của nhóm truy cập link: https://drive.google.com/file/d/1osT84mthkU7GKeBxjep-Rlu5hR4QufAU/view?usp=sharing
 
-* Thông tin nhóm: 21
-	Nguyễn Quang Duy: 519H0157
-	Trần Trung Kiên: 519H0306
-	Vũ Văn Ngọc: 519H0326
-	Hoàng Tuấn Vũ: 519H0262
 
